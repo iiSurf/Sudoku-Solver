@@ -1,0 +1,2 @@
+This program creates a 9 x 9 sudoku board playing space that reads from a file and checks to
+see if the rules of sudoku are followed.
